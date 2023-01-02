@@ -3,8 +3,8 @@
 |ブランチ名|内容|今|
 |----|----|----|
 |main|初期状態||
-|01ログイン認証|ログイン認証機能を追加||
-|02公開画面top|既定のHomePage(非ログイン状態）|ここ|
+|01ログイン認証|ログイン認証機能を追加|ここ|
+|02公開画面top|既定のHomePage(非ログイン状態）||
 
 <hr/>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
