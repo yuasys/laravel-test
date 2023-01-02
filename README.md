@@ -9,6 +9,9 @@
 
 ## About Laravel
 
+Laravelは、表現力豊かでエレガントな構文を持つWebアプリケーションフレームワークです。私たちは、開発は楽しくて創造的な体験でなければ、真に充実したものにならないと考えています。Laravelは、多くのWebプロジェクトで使用される以下のような一般的なタスクを容易にすることで、開発の苦痛を軽減します。
+
+[原文]
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
@@ -19,10 +22,20 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+Laravelは、アクセスしやすく、強力で、大規模で堅牢なアプリケーションに必要なツールを提供します。
+
+[原文]
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
+Laravelは、最新のWebアプリケーションフレームワークの中で最も充実した[ドキュメント](https://laravel.com/docs)とビデオチュートリアルライブラリを備えており、フレームワークを使い始めるのに非常に便利です。
+
+また、[Laravel Bootcamp](https://bootcamp.laravel.com)では、ゼロから最新のLaravelアプリケーションを構築するためのガイドが提供されているので、試してみるのもよいでしょう。
+
+読む気がしない場合は、[Laracasts](https://bootcamp.laravel.com)が役に立ちます。Laracastsには、Laravel、モダンPHP、ユニットテスト、JavaScriptなど、さまざまなトピックに関する2000以上のビデオチュートリアルが収録されています。包括的なビデオライブラリにアクセスして、スキルを向上させましょう。
+
+[原文]
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
